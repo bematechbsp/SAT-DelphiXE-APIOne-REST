@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2016/09/01 14:55:14.000.537,=C:\Users\Suporte\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/10/31 13:59:34.000.672,=C:\Users\Suporte\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/10/31 14:00:30.000.225,=C:\Users\Suporte\Desktop\Json\Unit1.pas</Transaction>
+    <Transaction>2016/10/31 14:00:35.000.836,C:\Users\Suporte\Documents\RAD Studio\Projects\Project1.dproj=C:\Users\Suporte\Desktop\Json\Project1.dproj</Transaction>
+    <Transaction>2016/11/01 14:36:43.000.867,=C:\Users\Suporte\Desktop\Json\XSuperObject.pas</Transaction>
+    <Transaction>2016/11/01 14:36:43.000.786,=C:\Users\Suporte\Desktop\Json\XSuperJSON.pas</Transaction>
+    <Transaction>2016/11/01 14:37:37.000.040,C:\Users\Suporte\Desktop\Json\XSuperJSON.pas=</Transaction>
+    <Transaction>2016/11/01 14:37:37.000.072,C:\Users\Suporte\Desktop\Json\XSuperObject.pas=</Transaction>
+    <Transaction>2016/11/25 10:14:59.000.137,=C:\Users\Suporte\Desktop\Json\Unit2.pas</Transaction>
+    <Transaction>2016/11/25 10:15:11.000.664,C:\Users\Suporte\Desktop\Json\Unit2.dfm=C:\Users\Suporte\Desktop\Json\AbreCupom.dfm</Transaction>
+    <Transaction>2016/11/25 10:15:11.000.664,C:\Users\Suporte\Desktop\Json\Unit2.pas=C:\Users\Suporte\Desktop\Json\AbreCupom.pas</Transaction>
+    <Transaction>2016/11/25 10:17:19.000.123,C:\Users\Suporte\Desktop\Json\Unit1.pas=C:\Users\Suporte\Desktop\Json\Principal.pas</Transaction>
+    <Transaction>2016/11/25 10:17:19.000.123,C:\Users\Suporte\Desktop\Json\Unit1.dfm=C:\Users\Suporte\Desktop\Json\Principal.dfm</Transaction>
+    <Transaction>2016/11/25 13:12:29.000.596,=C:\Users\Suporte\Desktop\Json\Unit1.pas</Transaction>
+    <Transaction>2016/11/25 13:25:12.000.753,C:\Users\Suporte\Desktop\Json\Unit1.dfm=C:\Users\Suporte\Desktop\Json\VenderItem.dfm</Transaction>
+    <Transaction>2016/11/25 13:25:12.000.753,C:\Users\Suporte\Desktop\Json\Unit1.pas=C:\Users\Suporte\Desktop\Json\VenderItem.pas</Transaction>
+    <Transaction>2016/11/28 11:13:26.000.265,=C:\Users\Suporte\Desktop\Json\Unit1.pas</Transaction>
+    <Transaction>2016/11/28 11:14:34.000.762,C:\Users\Suporte\Desktop\Json\EfetuarPagamento.pas=C:\Users\Suporte\Desktop\Json\Unit1.pas</Transaction>
+    <Transaction>2016/11/28 11:14:34.000.762,C:\Users\Suporte\Desktop\Json\EfetuarPagamento.dfm=C:\Users\Suporte\Desktop\Json\Unit1.dfm</Transaction>
+    <Transaction>2016/11/28 15:09:57.000.173,=C:\Users\Suporte\Desktop\Json\Unit1.pas</Transaction>
+    <Transaction>2016/11/28 15:10:10.000.732,C:\Users\Suporte\Desktop\Json\Unit1.pas=C:\Users\Suporte\Desktop\Json\FecharCupom.pas</Transaction>
+    <Transaction>2016/11/28 15:10:10.000.732,C:\Users\Suporte\Desktop\Json\Unit1.dfm=C:\Users\Suporte\Desktop\Json\FecharCupom.dfm</Transaction>
+    <Transaction>2016/11/28 16:48:48.000.898,=C:\Users\Suporte\Desktop\Json\Unit1.pas</Transaction>
+    <Transaction>2016/11/28 16:48:59.000.859,C:\Users\Suporte\Desktop\Json\Unit1.pas=C:\Users\Suporte\Desktop\Json\Cancelar.pas</Transaction>
+    <Transaction>2016/11/28 16:48:59.000.860,C:\Users\Suporte\Desktop\Json\Unit1.dfm=C:\Users\Suporte\Desktop\Json\Cancelar.dfm</Transaction>
+    <Transaction>2016/11/28 17:12:20.000.335,C:\Users\Suporte\Desktop\Json\Cancelar.dfm=C:\Users\Suporte\Desktop\Json\CancelarCupom.dfm</Transaction>
+    <Transaction>2016/11/28 17:12:20.000.335,C:\Users\Suporte\Desktop\Json\Cancelar.pas=C:\Users\Suporte\Desktop\Json\CancelarCupom.pas</Transaction>
+    <Transaction>2016/11/30 10:40:03.000.243,=C:\Users\Suporte\Desktop\Json\Unit1.pas</Transaction>
+    <Transaction>2016/11/30 10:40:19.000.479,C:\Users\Suporte\Desktop\Json\Unit1.dfm=C:\Users\Suporte\Desktop\Json\Contingencia.dfm</Transaction>
+    <Transaction>2016/11/30 10:40:19.000.478,C:\Users\Suporte\Desktop\Json\Unit1.pas=C:\Users\Suporte\Desktop\Json\Contingencia.pas</Transaction>
+    <Transaction>2016/11/30 11:04:24.000.317,C:\Users\Suporte\Desktop\Json\Contingencia.pas=C:\Users\Suporte\Desktop\Json\Configuracoes.pas</Transaction>
+    <Transaction>2016/11/30 11:04:24.000.317,C:\Users\Suporte\Desktop\Json\Contingencia.dfm=C:\Users\Suporte\Desktop\Json\Configuracoes.dfm</Transaction>
+    <Transaction>2016/12/01 14:05:46.000.394,=C:\Users\Suporte\Desktop\Json\Unit1.pas</Transaction>
+    <Transaction>2016/12/01 14:06:02.000.940,C:\Users\Suporte\Desktop\Json\Unit1.dfm=C:\Users\Suporte\Desktop\Json\Status.dfm</Transaction>
+    <Transaction>2016/12/01 14:06:02.000.940,C:\Users\Suporte\Desktop\Json\Unit1.pas=C:\Users\Suporte\Desktop\Json\Status.pas</Transaction>
+    <Transaction>2016/12/01 16:28:37.000.459,=C:\Users\Suporte\Desktop\Json\Unit1.pas</Transaction>
+    <Transaction>2016/12/01 16:30:46.000.546,C:\Users\Suporte\Desktop\Json\Unit1.pas=C:\Users\Suporte\Desktop\Json\Json.pas</Transaction>
+    <Transaction>2016/12/01 16:30:46.000.546,C:\Users\Suporte\Desktop\Json\Unit1.dfm=C:\Users\Suporte\Desktop\Json\Json.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
